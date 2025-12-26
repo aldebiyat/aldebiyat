@@ -37,10 +37,10 @@ Mobility hub API integrating transport operators across France and Australia. 60
 
 Things I've shipped
 
-Analytics Platform — Embedded BI tool built with Golang, Node, and Elasticsearch. Real-time dashboards for logistics customers.
-Search Infrastructure — Typesense integration that cut search latency and improved relevance scoring.
-Payment Systems — Multi-provider payment integration (PayPal, Adyen) handling international transactions.
-Multilingual CMS — Content system supporting 12+ languages with optimized database structures.
+1. Analytics Platform — Embedded BI tool built with Golang, Node, and Elasticsearch. Real-time dashboards for logistics customers.
+2. Search Infrastructure — Typesense integration that cut search latency and improved relevance scoring.
+3. Payment Systems — Multi-provider payment integration (PayPal, Adyen) handling international transactions.
+4. Multilingual CMS — Content system supporting 12+ languages with optimized database structures.
 
 
 How I think about engineering
