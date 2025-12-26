@@ -48,3 +48,10 @@ Building scalable, data-driven platforms
 - 📧 Email: aaldebiyat@gmail.com  
 
 ---
+
+### ⭐ Featured projects
+- Analytics Platform (Golang, Node, Elasticsearch)
+- CMS / Admin Systems (NestJS, GraphQL)
+
+---
+
